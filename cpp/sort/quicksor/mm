@@ -1,0 +1,1 @@
+g++ quicksort.cpp -o main;./main
